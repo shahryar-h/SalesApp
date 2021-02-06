@@ -21,7 +21,7 @@ clj sales.clj
 ```
 the menu will appear:
 
-![Menu] (/images/menu.png)
+![Menu](/images/menu.png)
 
 ## Program Example:
 we can count how many purchases of milk we have:
