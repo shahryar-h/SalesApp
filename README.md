@@ -20,11 +20,10 @@ then navigate to the project folder in terminal. and run:
 clj sales.clj
 ```
 the menu will appear:
-
-![Menu](/images/menu.png)
+![Menu](/Images/menu.png)
 
 ## Program Example:
 we can count how many purchases of milk we have:
 
 
-![product](/images/exaxmple.png)
+![product](/Images/example.png)
